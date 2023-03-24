@@ -1,0 +1,39 @@
+#countdown {
+    font-size: 140px;
+    font-weight: bold;
+    color: #000;
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    color: deeppink;
+    text-align: center;
+}
+
+h2 {
+    font-size: 50px;
+    color: blue;
+    text-align: center;
+}
+
+body {
+    background-image: url('https://media.admagazine.com/photos/618a65f329327ed3de99d73b/1:1/w_3011,h_3011,c_limit/72394.jpg');
+    background-size: cover;
+}
+
+img {
+    width: 300px;
+    align-items: center;
+
+    /* Centrar horizontalmente */
+    display: block;
+    margin: 0 auto;
+
+    /* Centrar verticalmente */
+
+    display: block;
+    margin: auto;
+}
+
+}
