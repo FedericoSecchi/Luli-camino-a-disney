@@ -1,4 +1,4 @@
-var countdownDate = new Date("APRIL 5, 2023 20:59:59").getTime();
+var countdownDate = new Date("APRIL 3, 2023 12:00:00").getTime();
 
 var x = setInterval(function() {
   var now = new Date().getTime();
